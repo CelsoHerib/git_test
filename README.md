@@ -1,3 +1,3 @@
 # git_test
 OdinProyect_test
-Hello Odin! where i Thor and Loki?!
+Hello Odin! where are Thor and Loki?!
